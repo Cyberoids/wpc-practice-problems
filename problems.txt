@@ -1,0 +1,20 @@
+# wpc-practice-problems
+1. Write a Python program that takes a list of numbers and returns a new list with only the even numbers.
+
+2. Write a Python program that takes a list of words and returns a new list with only the words that start with a vowel.
+
+3. Write a Python program that takes a list of strings and returns the longest string.
+
+4. Write a Python program that takes a list of integers and returns a new list with the unique numbers in the original list.
+
+5. Write a Python program that takes a list of words and returns a new list with the words in alphabetical order.
+
+6. Write a Python program that takes a string and returns a new string with all the vowels removed.
+
+7. Write a Python program that takes two lists of integers and returns a new list with the elements that are common to both lists.
+
+8. Write a Python program that takes a list of integers and returns the sum of all the even numbers in the list.
+
+9. Write a Python program that takes a list of integers and returns the sum of the two largest numbers in the list.
+
+10. Write a Python program that takes a string and returns a new string with the first and last characters removed.
