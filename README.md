@@ -1,5 +1,5 @@
 # wpc-practice-problems
-Instruction
+Instructions
 1. clone the repository
 2. create a new branch with group name
 3. create a folder named 'solutions'
